@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qwq1118.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qwq1118.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://qwq1118.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://qwq1118.github.io/%E9%BB%84%E9%87%91%E5%B1%8B/</loc>
+    <loc>http://localhost:1313/%E9%BB%84%E9%87%91%E5%B1%8B/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qwq1118.github.io/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8/</loc>
+    <loc>http://localhost:1313/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qwq1118.github.io/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <loc>http://localhost:1313/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-06-06T19:29:14+08:00</lastmod>
   </url><url>
-    <loc>https://qwq1118.github.io/%E4%BD%95%E4%B8%BA%E6%88%91/%E4%BD%95%E4%B8%BA%E6%88%91_index/</loc>
+    <loc>http://localhost:1313/%E4%BD%95%E4%B8%BA%E6%88%91/%E4%BD%95%E4%B8%BA%E6%88%91_index/</loc>
     <lastmod>2025-06-06T19:29:14+08:00</lastmod>
   </url><url>
-    <loc>https://qwq1118.github.io/%E4%BD%95%E4%B8%BA%E6%88%91/</loc>
+    <loc>http://localhost:1313/%E4%BD%95%E4%B8%BA%E6%88%91/</loc>
     <lastmod>2025-06-06T19:29:14+08:00</lastmod>
   </url><url>
-    <loc>https://qwq1118.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qwq1118.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://qwq1118.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://qwq1118.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qwq1118.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://qwq1118.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

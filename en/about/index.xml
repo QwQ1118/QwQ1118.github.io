@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Abouts on HOME</title>
-    <link>https://qwq1118.github.io/en/about/</link>
+    <link>http://localhost:1313/en/about/</link>
     <description>Recent content in Abouts on HOME</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Jun 2025 19:29:14 +0800</lastBuildDate>
-    <atom:link href="https://qwq1118.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://qwq1118.github.io/en/about/reumes_index/</link>
+      <link>http://localhost:1313/en/about/reumes_index/</link>
       <pubDate>Fri, 06 Jun 2025 19:29:14 +0800</pubDate>
-      <guid>https://qwq1118.github.io/en/about/reumes_index/</guid>
+      <guid>http://localhost:1313/en/about/reumes_index/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;class Me:
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    def __init__(self):
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.name = &amp;#34;Qingqing Wu&amp;#34;
