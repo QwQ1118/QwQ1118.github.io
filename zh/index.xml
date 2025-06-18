@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HOME</title>
+    <link>http://localhost:1313/zh/</link>
+    <description>Recent content on HOME</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>瞬息全宇宙</title>
+      <link>http://localhost:1313/zh/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%88%91%E6%80%9D%E6%95%85%E6%88%91%E5%9C%A8/%E7%9E%AC%E6%81%AF%E5%85%A8%E5%AE%87%E5%AE%99/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%88%91%E6%80%9D%E6%95%85%E6%88%91%E5%9C%A8/%E7%9E%AC%E6%81%AF%E5%85%A8%E5%AE%87%E5%AE%99/</guid>
+      <description>&lt;p&gt;这是一个很残酷的世界，我们都在里面绕圈子。——《瞬息全宇宙》&lt;/p&gt;
+&lt;p&gt;今天部署网站部署了5个小时，终于将网站显示出来了，我也有一点点空闲来写一下我建立网站的初衷了。&lt;/p&gt;
+&lt;p&gt;好像是前年吧，和爸妈一起在家里看了杨紫琼演的“瞬息全宇宙”，看完我久久无法忘怀，爱是东亚人一生的课题，谁也逃离不了。虽然这部电影如此幽默诙谐、科幻梦幻，但我还是感受到了很多异样的情绪。&lt;/p&gt;
+&lt;p&gt;好咯，又跑题了，让我先来阐释一下我视角里的这部电影吧。&lt;/p&gt;
+&lt;p&gt;关于拍摄。这部电影用了很多经典的拍摄手法，像王家卫的抽帧、光影变化、太空漫游2001&amp;hellip;用了不尽其数，致敬了国内外电影史上无数的好片，杀死别尔、黑客帝国、佛洛依达、闪灵、卡罗尔，等等。所以这部电影获奖在我看来不足为奇，毕竟能将所有东西融到一起不显得突兀，已经很难了，更何况还表达了自己的想法。&lt;/p&gt;
+&lt;p&gt;关于立意。我时常认为，大多数外国人，他们长期以来，自大地意淫着亚洲人需要靠“弑母”来完成自己个体的成长，但这部电影用中式哲学和专属于国人的温良，打破了这样的固化认知，在告诉全世界，亚洲人的成长不是狭隘的“弑母”，反而是一种趋近于“自毁”的而立。无论是母亲还是孩子，靠的从不是“弑母”来完成人生的课题，而是包容和谅解。&lt;/p&gt;
+&lt;p&gt;电影最后一段，才是中国人的亲情观。即是有恨有怨，有各种坏情绪和想法，但我们总是会不断的原谅彼此，所以我们中国人总爱说，落叶归根。&lt;/p&gt;
+&lt;p&gt;为什么建站？&lt;/p&gt;
+&lt;p&gt;我时常觉得我这个人太飘忽，好像没有什么东西拴着我，亦或者说这个世界还是太残酷，我不想受伤，所以放纵自己不定。但那天我看完电影的时候，我突然和我爸妈和解了，我也和自己和解了。我突然明白，或许终其一生，我的课题就是：孤独。&lt;/p&gt;
+&lt;p&gt;但我很贪心，我总希望我能留下些什么，但我又无从下手，我不是文豪，我写出青史留名的巨作；我不是天才，我发现也发明不了改变人类的食物；我不过是茫茫人海中的一员，绕街角一周，一样消失不见。但那天，看完电影，我想我或许可以把自己的一部分转化为字符，留在数据里。&lt;/p&gt;
+&lt;p&gt;这也是我的乌托邦，我希望我能在这里畅所欲言，但这里也只是部分的我，搭建成功的这段时间，我时常想，这些字节带着我在网络中流浪，我何尝不算另一种数字游民。这是我走过的痕迹。&lt;/p&gt;
+&lt;p&gt;everything everywher all at once, 我或许也可以无处不在。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>成功了吗？</title>
+      <link>http://localhost:1313/zh/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Fri, 06 Jun 2025 19:29:14 +0800</pubDate>
+      <guid>http://localhost:1313/zh/%E9%BB%84%E9%87%91%E5%B1%8B/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description>&lt;p&gt;不出意外，今天，我通过github和hugo，建立的个人网站应该就能打开了，但后续还有很多部署，需要投入很多精力和时间，慢慢来吧～&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>何为我</title>
+      <link>http://localhost:1313/zh/%E4%BD%95%E4%B8%BA%E6%88%91/%E4%BD%95%E4%B8%BA%E6%88%91_index/</link>
+      <pubDate>Fri, 06 Jun 2025 19:29:14 +0800</pubDate>
+      <guid>http://localhost:1313/zh/%E4%BD%95%E4%B8%BA%E6%88%91/%E4%BD%95%E4%B8%BA%E6%88%91_index/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;class Me:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    def __init__(self):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.name = &amp;#34;吴晴晴&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.born_year = 2001
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.MBTI = &amp;#34;INTJ&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.hometown = &amp;#34;昆明, 云南, 中国&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.location = &amp;#34;西安, 陕西, 中国&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.school = &amp;#34;昆明理工大学&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;## 编年史
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| 年份 | 事件 | 具体内容 |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| ---- | ---- | ---- |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| 2020 | 事件1 | 具体内容1 |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| 2021 | 事件2 | 具体内容2 |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| 2022 | 事件3 | 具体内容3 |
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

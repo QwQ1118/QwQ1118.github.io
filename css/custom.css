@@ -1,0 +1,20 @@
+.profile img {
+    border-radius: 50%;
+}
+
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+    margin-left: 1rem;
+  }
+  
+  .social-link {
+    color: var(--text-color);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .social-link:hover {
+    color: var(--primary-color);
+  }
